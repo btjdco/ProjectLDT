@@ -1,0 +1,785 @@
+﻿# Game Korean translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2025-12-20 06:01\n"
+"PO-Revision-Date: 2025-12-20 06:01\n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	Apply
+#. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
+#: /Game/NewProject/Lan/ST_Common.ST_Common
+msgctxt "OP_Common,Apply"
+msgid "Apply"
+msgstr ""
+
+#. Key:	Cancle
+#. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
+#: /Game/NewProject/Lan/ST_Common.ST_Common
+msgctxt "OP_Common,Cancle"
+msgid "Cancle"
+msgstr ""
+
+#. Key:	Create
+#. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
+#: /Game/NewProject/Lan/ST_Common.ST_Common
+msgctxt "OP_Common,Create"
+msgid "Create"
+msgstr ""
+
+#. Key:	Custom
+#. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
+#: /Game/NewProject/Lan/ST_Common.ST_Common
+msgctxt "OP_Common,Custom"
+msgid "Custom"
+msgstr ""
+
+#. Key:	Default
+#. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
+#: /Game/NewProject/Lan/ST_Common.ST_Common
+msgctxt "OP_Common,Default"
+msgid "Default"
+msgstr ""
+
+#. Key:	Enter
+#. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
+#: /Game/NewProject/Lan/ST_Common.ST_Common
+msgctxt "OP_Common,Enter"
+msgid "Enter"
+msgstr ""
+
+#. Key:	FPS120
+#. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
+#: /Game/NewProject/Lan/ST_Common.ST_Common
+msgctxt "OP_Common,FPS120"
+msgid "FIX (120 FPS)"
+msgstr ""
+
+#. Key:	FPS60
+#. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
+#: /Game/NewProject/Lan/ST_Common.ST_Common
+msgctxt "OP_Common,FPS60"
+msgid "FIX (60 FPS)"
+msgstr ""
+
+#. Key:	GraphicHigh
+#. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
+#: /Game/NewProject/Lan/ST_Common.ST_Common
+msgctxt "OP_Common,GraphicHigh"
+msgid "High"
+msgstr ""
+
+#. Key:	GraphicLow
+#. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
+#: /Game/NewProject/Lan/ST_Common.ST_Common
+msgctxt "OP_Common,GraphicLow"
+msgid "Low"
+msgstr ""
+
+#. Key:	GraphicMedium
+#. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
+#: /Game/NewProject/Lan/ST_Common.ST_Common
+msgctxt "OP_Common,GraphicMedium"
+msgid "Medium"
+msgstr ""
+
+#. Key:	GraphicUltra
+#. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
+#: /Game/NewProject/Lan/ST_Common.ST_Common
+msgctxt "OP_Common,GraphicUltra"
+msgid "Ultra"
+msgstr ""
+
+#. Key:	Inversion
+#. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
+#: /Game/NewProject/Lan/ST_Common.ST_Common
+msgctxt "OP_Common,Inversion"
+msgid "Inversion"
+msgstr ""
+
+#. Key:	OFF
+#. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
+#: /Game/NewProject/Lan/ST_Common.ST_Common
+msgctxt "OP_Common,OFF"
+msgid "OFF"
+msgstr ""
+
+#. Key:	ON
+#. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
+#: /Game/NewProject/Lan/ST_Common.ST_Common
+msgctxt "OP_Common,ON"
+msgid "ON"
+msgstr ""
+
+#. Key:	Play
+#. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
+#: /Game/NewProject/Lan/ST_Common.ST_Common
+msgctxt "OP_Common,Play"
+msgid "Play"
+msgstr ""
+
+#. Key:	Unlimited
+#. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
+#: /Game/NewProject/Lan/ST_Common.ST_Common
+msgctxt "OP_Common,Unlimited"
+msgid "Unlimited"
+msgstr ""
+
+#. Key:	GameHintAmmo
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,GameHintAmmo"
+msgid "bullet"
+msgstr ""
+
+#. Key:	GameHintCancle
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,GameHintCancle"
+msgid "Cancel"
+msgstr "취소"
+
+#. Key:	GameHintCrouch
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,GameHintCrouch"
+msgid "Crouch"
+msgstr "엎드리기"
+
+#. Key:	GameHintJump
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,GameHintJump"
+msgid "Jump"
+msgstr "점프"
+
+#. Key:	GameHintMask
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,GameHintMask"
+msgid "face mask"
+msgstr "얼굴 마스크"
+
+#. Key:	GameHintMenu
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,GameHintMenu"
+msgid "Menu"
+msgstr "메뉴"
+
+#. Key:	GameHintMove
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,GameHintMove"
+msgid "Movement"
+msgstr "이동"
+
+#. Key:	GameHintTrigger
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,GameHintTrigger"
+msgid "Trigger"
+msgstr "트리거"
+
+#. Key:	GameHintVoice
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,GameHintVoice"
+msgid "Voice"
+msgstr "음성"
+
+#. Key:	MenuBackTicketCommentA
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuBackTicketCommentA"
+msgid "Changes have not been applied."
+msgstr "변경 사항이 적용되지 않았습니다."
+
+#. Key:	MenuBackTicketCommentB
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuBackTicketCommentB"
+msgid "Do you want to apply them?"
+msgstr "적용하시겠습니까?"
+
+#. Key:	MenuDisplayAudioOptionVTAlways
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayAudioOptionVTAlways"
+msgid "Always"
+msgstr "항상"
+
+#. Key:	MenuDisplayAudioOptionVTToogle
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayAudioOptionVTToogle"
+msgid "Toggle"
+msgstr "토글"
+
+#. Key:	MenuDisplayAudioTitleAm
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayAudioTitleAm"
+msgid "Ambient"
+msgstr "환경음"
+
+#. Key:	MenuDisplayAudioTitleDevice
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayAudioTitleDevice"
+msgid "Audio Input Device"
+msgstr "오디오 입력 장치"
+
+#. Key:	MenuDisplayAudioTitleMenu
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayAudioTitleMenu"
+msgid "Menu Volume"
+msgstr "메뉴 볼륨"
+
+#. Key:	MenuDisplayAudioTitleMusic
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayAudioTitleMusic"
+msgid "Music Volume"
+msgstr "음악 볼륨"
+
+#. Key:	MenuDisplayAudioTitleMV
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayAudioTitleMV"
+msgid "Master Volume"
+msgstr "마스터 볼륨"
+
+#. Key:	MenuDisplayAudioTitleSFX
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayAudioTitleSFX"
+msgid "SFX Volume"
+msgstr "SFX 볼륨"
+
+#. Key:	MenuDisplayAudioTitleTest
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayAudioTitleTest"
+msgid "Voice Test"
+msgstr "음성 테스트"
+
+#. Key:	MenuDisplayAudioTitleVM
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayAudioTitleVM"
+msgid "Voice Mute"
+msgstr "음성 음소거"
+
+#. Key:	MenuDisplayAudioTitleVOIP
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayAudioTitleVOIP"
+msgid "VOIP"
+msgstr "음성 채팅"
+
+#. Key:	MenuDisplayAudioTitleVolume
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayAudioTitleVolume"
+msgid "Volume"
+msgstr "볼륨"
+
+#. Key:	MenuDisplayAudioTitleVT
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayAudioTitleVT"
+msgid "Voice Toggle"
+msgstr "음성 토글"
+
+#. Key:	MenuDisplayBindTitleAE
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayBindTitleAE"
+msgid "Electricity Ammo"
+msgstr "전기 탄약"
+
+#. Key:	MenuDisplayBindTitleAG
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayBindTitleAG"
+msgid "Gas Ammo"
+msgstr "가스 탄약"
+
+#. Key:	MenuDisplayBindTitleAH
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayBindTitleAH"
+msgid "Recovery Ammo"
+msgstr "회복 탄약"
+
+#. Key:	MenuDisplayBindTitleBackward
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayBindTitleBackward"
+msgid "Backward"
+msgstr "뒤로"
+
+#. Key:	MenuDisplayBindTitleCancle
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayBindTitleCancle"
+msgid "Cancel"
+msgstr "취소"
+
+#. Key:	MenuDisplayBindTitleCrouch
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayBindTitleCrouch"
+msgid "Prone"
+msgstr "엎드리기"
+
+#. Key:	MenuDisplayBindTitleForward
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayBindTitleForward"
+msgid "Forward"
+msgstr "앞으로"
+
+#. Key:	MenuDisplayBindTitleInteraction
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayBindTitleInteraction"
+msgid "Interaction"
+msgstr "상호작용"
+
+#. Key:	MenuDisplayBindTitleItem
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayBindTitleItem"
+msgid "Item"
+msgstr "아이템"
+
+#. Key:	MenuDisplayBindTitleJump
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayBindTitleJump"
+msgid "Jump"
+msgstr "점프"
+
+#. Key:	MenuDisplayBindTitleLeft
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayBindTitleLeft"
+msgid "Left"
+msgstr "왼쪽"
+
+#. Key:	MenuDisplayBindTitleMenu
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayBindTitleMenu"
+msgid "Menu"
+msgstr "메뉴"
+
+#. Key:	MenuDisplayBindTitleRight
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayBindTitleRight"
+msgid "Right"
+msgstr "오른쪽"
+
+#. Key:	MenuDisplayBindTitleSpecial
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayBindTitleSpecial"
+msgid "Interaction"
+msgstr "상호작용"
+
+#. Key:	MenuDisplayBindTitleSystem
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayBindTitleSystem"
+msgid "System"
+msgstr "시스템"
+
+#. Key:	MenuDisplayBindTitleTrigger
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayBindTitleTrigger"
+msgid "Trigger"
+msgstr "트리거"
+
+#. Key:	MenuDisplayBindTitleVoiceToggle
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayBindTitleVoiceToggle"
+msgid "Voice Toggle"
+msgstr "음성 토글"
+
+#. Key:	MenuDisplayExit
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayExit"
+msgid "Exit to Desktop!"
+msgstr "바탕 화면으로 나가기!"
+
+#. Key:	MenuDisplayGeneralsOpSimple
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGeneralsOpSimple"
+msgid "Simple"
+msgstr "심플"
+
+#. Key:	MenuDisplayGeneralsUIScale
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGeneralsUIScale"
+msgid "UI Scale"
+msgstr "UI 스케일"
+
+#. Key:	MenuDisplayGeneralsUIType
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGeneralsUIType"
+msgid "In Game UI Type"
+msgstr "게임 내 UI 유형"
+
+#. Key:	MenuDisplayGeneralTitleBase
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGeneralTitleBase"
+msgid "Basic"
+msgstr "기본"
+
+#. Key:	MenuDisplayGeneralTitleCameraShake
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGeneralTitleCameraShake"
+msgid "Shake"
+msgstr "흔들림"
+
+#. Key:	MenuDisplayGeneralTitleCharacter
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGeneralTitleCharacter"
+msgid "Character"
+msgstr "캐릭터"
+
+#. Key:	MenuDisplayGeneralTitleControl
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGeneralTitleControl"
+msgid "Controls"
+msgstr "조작"
+
+#. Key:	MenuDisplayGeneralTitleFOV
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGeneralTitleFOV"
+msgid "Viewpoint"
+msgstr "시점"
+
+#. Key:	MenuDisplayGeneralTitleHint
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGeneralTitleHint"
+msgid "Show Hints"
+msgstr "힌트 표시"
+
+#. Key:	MenuDisplayGeneralTitleLan
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGeneralTitleLan"
+msgid "Language"
+msgstr "언어"
+
+#. Key:	MenuDisplayGeneralTitleMotionBlur
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGeneralTitleMotionBlur"
+msgid "Motion Blur"
+msgstr "모션 블러"
+
+#. Key:	MenuDisplayGeneralTitleMouseSen
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGeneralTitleMouseSen"
+msgid "Mouse Sensitivity"
+msgstr "마우스 감도"
+
+#. Key:	MenuDisplayGeneralTitleXAxis
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGeneralTitleXAxis"
+msgid "X-Axis"
+msgstr "X축"
+
+#. Key:	MenuDisplayGeneralTitleYAxis
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGeneralTitleYAxis"
+msgid "Y-Axis"
+msgstr "Y축"
+
+#. Key:	MenuDisplayGraphicOptionSMFull
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicOptionSMFull"
+msgid "Window Mode"
+msgstr "창 모드"
+
+#. Key:	MenuDisplayGraphicOptionSMWin
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicOptionSMWin"
+msgid "Fullscreen"
+msgstr "전체 화면"
+
+#. Key:	MenuDisplayGraphicTitleAA
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleAA"
+msgid "Anti-Aliasing"
+msgstr "앤티앨리어싱"
+
+#. Key:	MenuDisplayGraphicTitleDisplay
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleDisplay"
+msgid "Display"
+msgstr "디스플레이"
+
+#. Key:	MenuDisplayGraphicTitleFoliage
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleFoliage"
+msgid "Foliage"
+msgstr "식생"
+
+#. Key:	MenuDisplayGraphicTitleFR
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleFR"
+msgid "Screen Resolution"
+msgstr "화면 해상도"
+
+#. Key:	MenuDisplayGraphicTitleGFPS
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleGFPS"
+msgid "Game FPS Limit"
+msgstr "게임 FPS 제한"
+
+#. Key:	MenuDisplayGraphicTitleGFPSCus
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleGFPSCus"
+msgid "Game FPS Custom Limit"
+msgstr "게임 FPS 사용자 지정 제한"
+
+#. Key:	MenuDisplayGraphicTitleLumen
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleLumen"
+msgid "Lumens"
+msgstr "루멘"
+
+#. Key:	MenuDisplayGraphicTitleMFPS
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleMFPS"
+msgid "Menu FPS Limit"
+msgstr "메뉴 FPS 제한"
+
+#. Key:	MenuDisplayGraphicTitleMFPSCus
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleMFPSCus"
+msgid "Menu FPS Custom Limit"
+msgstr "메뉴 FPS 사용자 지정 제한"
+
+#. Key:	MenuDisplayGraphicTitleOQ
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleOQ"
+msgid "Overall Quality"
+msgstr "전체 화질"
+
+#. Key:	MenuDisplayGraphicTitlePP
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitlePP"
+msgid "Post Processing"
+msgstr "포스트 프로세싱"
+
+#. Key:	MenuDisplayGraphicTitleQuailty
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleQuailty"
+msgid "Quality"
+msgstr "화질"
+
+#. Key:	MenuDisplayGraphicTitleReflection
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleReflection"
+msgid "Reflections"
+msgstr "반사"
+
+#. Key:	MenuDisplayGraphicTitleRS
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleRS"
+msgid "Resolution Scale"
+msgstr "해상도 스케일"
+
+#. Key:	MenuDisplayGraphicTitleShading
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleShading"
+msgid "Shading"
+msgstr "셰이딩"
+
+#. Key:	MenuDisplayGraphicTitleShadow
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleShadow"
+msgid "Shadow"
+msgstr "그림자"
+
+#. Key:	MenuDisplayGraphicTitleSM
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleSM"
+msgid "Screen Mode"
+msgstr "화면 모드"
+
+#. Key:	MenuDisplayGraphicTitleTD
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleTD"
+msgid "Target Screen"
+msgstr "타겟 화면"
+
+#. Key:	MenuDisplayGraphicTitleTexture
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleTexture"
+msgid "Textures"
+msgstr "텍스처"
+
+#. Key:	MenuDisplayGraphicTitleVD
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleVD"
+msgid "View Distance"
+msgstr "시야 거리"
+
+#. Key:	MenuDisplayGraphicTitleVFX
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleVFX"
+msgid "Visual Effects"
+msgstr "시각 효과"
+
+#. Key:	MenuDisplayGraphicTitleVS
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuDisplayGraphicTitleVS"
+msgid "Vertical Sync"
+msgstr "수직 동기화"
+
+#. Key:	MenuSwitchAM
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuSwitchAM"
+msgid "Access Module"
+msgstr "모듈 접근"
+
+#. Key:	MenuSwitchAudio
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuSwitchAudio"
+msgid "Audio"
+msgstr "오디오"
+
+#. Key:	MenuSwitchBack
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuSwitchBack"
+msgid "Back"
+msgstr "뒤로"
+
+#. Key:	MenuSwitchBind
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuSwitchBind"
+msgid "Bind"
+msgstr "바인드"
+
+#. Key:	MenuSwitchCharacter
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuSwitchCharacter"
+msgid "Character"
+msgstr "캐릭터"
+
+#. Key:	MenuSwitchExit
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuSwitchExit"
+msgid "Exit"
+msgstr "종료"
+
+#. Key:	MenuSwitchGeneral
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuSwitchGeneral"
+msgid "General"
+msgstr "일반"
+
+#. Key:	MenuSwitchGraphic
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuSwitchGraphic"
+msgid "Graphics"
+msgstr "그래픽"
+
+#. Key:	MenuSwitchNM
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuSwitchNM"
+msgid "New Module"
+msgstr "새 모듈"
+
+#. Key:	MenuSwitchPlay
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuSwitchPlay"
+msgid "Play"
+msgstr "플레이"
+
+#. Key:	MenuSwitchRM
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuSwitchRM"
+msgid "Resume Module"
+msgstr "모듈 재개"
+
+#. Key:	MenuSwitchSetting
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuSwitchSetting"
+msgid "Settings"
+msgstr "설정"
+
+#. Key:	MenuSwitchTuto
+#. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
+#: /Game/NewProject/Lan/ST_Individual.ST_Individual
+msgctxt "OP_Individual,MenuSwitchTuto"
+msgid "Tutorial"
+msgstr "튜토리얼"
+
