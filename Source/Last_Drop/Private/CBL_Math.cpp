@@ -22,7 +22,8 @@ FString UCBL_Math::CreateUniqueRoomCode()
 	FString NewCode;
 	int32 TryCount = 0;
 	const int32 MaxTry = 10;
-	
+	TSet<FString> ActiveRoomCodes;
+
 	do
 	{
 		NewCode = UCBL_Math::GenerateVoidJumperCode();
@@ -37,5 +38,6 @@ FString UCBL_Math::CreateUniqueRoomCode()
 
 void UCBL_Math::DestroyRoom(const FString& RoomCode)
 {
+	TSet<FString> ActiveRoomCodes;
 	ActiveRoomCodes.Remove(RoomCode);
 }

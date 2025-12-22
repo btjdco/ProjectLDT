@@ -21,6 +21,4 @@ class LAST_DROP_API UCBL_Math : public UBlueprintFunctionLibrary
 
 	UFUNCTION(BlueprintCallable, Category = "Create_Game")
 	static void DestroyRoom(const FString& RoomCode);
-
-	static TSet<FString> ActiveRoomCodes;
 };
