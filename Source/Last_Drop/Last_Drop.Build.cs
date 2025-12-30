@@ -11,14 +11,16 @@ public class Last_Drop : ModuleRules
 		PublicDependencyModuleNames.AddRange(
                 new string[] 
                 {
-                    "Core", "InputCore", "EnhancedInput","CoreUObject"
+                    "Core", "InputCore", "EnhancedInput","CoreUObject",
+                    "OnlineSubsystem", "OnlineSubsystemUtils",
                 }
             );
 
 		PrivateDependencyModuleNames.AddRange(
                 new string[] {
                     "Engine",
-                    "RHI","RenderCore","ApplicationCore","Slate", "SlateCore"
+                    "RHI","RenderCore","ApplicationCore","Slate", "SlateCore",
+
                 }
             );
 
