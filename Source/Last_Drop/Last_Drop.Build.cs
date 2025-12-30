@@ -11,8 +11,7 @@ public class Last_Drop : ModuleRules
 		PublicDependencyModuleNames.AddRange(
                 new string[] 
                 {
-                    "Core", "InputCore", "EnhancedInput","CoreUObject",
-                    "OnlineSubsystem", "OnlineSubsystemUtils",
+                    "Core", "InputCore", "EnhancedInput","CoreUObject","AdvancedSessions", "AdvancedSteamSessions"
                 }
             );
 
