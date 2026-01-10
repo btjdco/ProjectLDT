@@ -18,7 +18,7 @@ public class Last_Drop : ModuleRules
 		PrivateDependencyModuleNames.AddRange(
                 new string[] {
                     "Engine",
-                    "RHI","RenderCore","ApplicationCore","Slate", "SlateCore",
+                    "RHI","RenderCore","ApplicationCore","Slate", "SlateCore","MoviePlayer"
 
                 }
             );

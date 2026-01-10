@@ -19,5 +19,8 @@
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
