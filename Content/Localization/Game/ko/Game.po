@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2025-12-20 06:01\n"
-"PO-Revision-Date: 2025-12-20 06:01\n"
+"POT-Creation-Date: 2026-01-13 13:42\n"
+"PO-Revision-Date: 2026-01-13 13:42\n"
 "Language-Team: \n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -13,131 +13,208 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+#. Key:	OptionCommentGamma
+#. SourceLocation:	/Game/NewProject/Lan/ST_Comment.ST_Comment
+#: /Game/NewProject/Lan/ST_Comment.ST_Comment
+msgctxt "OP_Comment,OptionCommentGamma"
+msgid "Adjust until the image is barely visible."
+msgstr "이미지가 거의 보이지 않을 때까지 조정하세요."
+
+#. Key:	OptionCommentLanguage
+#. SourceLocation:	/Game/NewProject/Lan/ST_Comment.ST_Comment
+#: /Game/NewProject/Lan/ST_Comment.ST_Comment
+msgctxt "OP_Comment,OptionCommentLanguage"
+msgid "Please select your preferred language."
+msgstr "원하시는 언어를 선택해 주세요."
+
+#. Key:	OptionCommentRegion
+#. SourceLocation:	/Game/NewProject/Lan/ST_Comment.ST_Comment
+#: /Game/NewProject/Lan/ST_Comment.ST_Comment
+msgctxt "OP_Comment,OptionCommentRegion"
+msgid "Select a region to filter available match rooms."
+msgstr "이용 가능한 서버를 필터링하려면 지역을 선택하세요."
+
+#. Key:	OptionTitleNoticeA
+#. SourceLocation:	/Game/NewProject/Lan/ST_Comment.ST_Comment
+#: /Game/NewProject/Lan/ST_Comment.ST_Comment
+msgctxt "OP_Comment,OptionTitleNoticeA"
+msgid "if you have an epileptic condition."
+msgstr "간질 질환이 있는 경우."
+
+#. Key:	OptionTitleNoticeB
+#. SourceLocation:	/Game/NewProject/Lan/ST_Comment.ST_Comment
+#: /Game/NewProject/Lan/ST_Comment.ST_Comment
+msgctxt "OP_Comment,OptionTitleNoticeB"
+msgid "[Fair Play Notice]"
+msgstr "[공정성 확보 공지]"
+
+#. Key:	OptionTitleNoticeC
+#. SourceLocation:	/Game/NewProject/Lan/ST_Comment.ST_Comment
+#: /Game/NewProject/Lan/ST_Comment.ST_Comment
+msgctxt "OP_Comment,OptionTitleNoticeC"
+msgid "Use of illegal software, bug abuse, or toxic behavior will lead"
+msgstr "불법 소프트웨어 사용, 버그 악용 또는 유해한 행동은 다음과 같은 결과를 초래할 것입니다."
+
+#. Key:	OptionTitleNoticeD
+#. SourceLocation:	/Game/NewProject/Lan/ST_Comment.ST_Comment
+#: /Game/NewProject/Lan/ST_Comment.ST_Comment
+msgctxt "OP_Comment,OptionTitleNoticeD"
+msgid "to an immediate and permanent ban without warning."
+msgstr "사전 경고 없이 즉각적이고 영구적인 이용 금지 조치가 취해집니다."
+
+#. Key:	WarringA
+#. SourceLocation:	/Game/NewProject/Lan/ST_Comment.ST_Comment
+#: /Game/NewProject/Lan/ST_Comment.ST_Comment
+msgctxt "OP_Comment,WarringA"
+msgid "[PHOTOSENSITIVITY WARNING]"
+msgstr "[광과민성 경고]"
+
+#. Key:	WarringB
+#. SourceLocation:	/Game/NewProject/Lan/ST_Comment.ST_Comment
+#: /Game/NewProject/Lan/ST_Comment.ST_Comment
+msgctxt "OP_Comment,WarringB"
+msgid "A small percentage of individuals may experience epileptic seizures"
+msgstr "소수의 사람들에게서 간질 발작이 나타날 수 있습니다."
+
+#. Key:	WarringC
+#. SourceLocation:	/Game/NewProject/Lan/ST_Comment.ST_Comment
+#: /Game/NewProject/Lan/ST_Comment.ST_Comment
+msgctxt "OP_Comment,WarringC"
+msgid "when exposed to certain light patterns or flashing lights."
+msgstr "특정 조명 패턴이나 깜빡이는 불빛에 노출될 때."
+
+#. Key:	WarringD
+#. SourceLocation:	/Game/NewProject/Lan/ST_Comment.ST_Comment
+#: /Game/NewProject/Lan/ST_Comment.ST_Comment
+msgctxt "OP_Comment,WarringD"
+msgid "Consult your physician before playing"
+msgstr "게임을 시작하기 전에 의사와 상담하십시오."
+
 #. Key:	Apply
 #. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
 #: /Game/NewProject/Lan/ST_Common.ST_Common
 msgctxt "OP_Common,Apply"
 msgid "Apply"
-msgstr ""
+msgstr "적용"
 
 #. Key:	Cancle
 #. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
 #: /Game/NewProject/Lan/ST_Common.ST_Common
 msgctxt "OP_Common,Cancle"
 msgid "Cancle"
-msgstr ""
+msgstr "취소"
 
 #. Key:	Create
 #. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
 #: /Game/NewProject/Lan/ST_Common.ST_Common
 msgctxt "OP_Common,Create"
 msgid "Create"
-msgstr ""
+msgstr "생성"
 
 #. Key:	Custom
 #. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
 #: /Game/NewProject/Lan/ST_Common.ST_Common
 msgctxt "OP_Common,Custom"
 msgid "Custom"
-msgstr ""
+msgstr "커스텀"
 
 #. Key:	Default
 #. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
 #: /Game/NewProject/Lan/ST_Common.ST_Common
 msgctxt "OP_Common,Default"
 msgid "Default"
-msgstr ""
+msgstr "기본"
 
 #. Key:	Enter
 #. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
 #: /Game/NewProject/Lan/ST_Common.ST_Common
 msgctxt "OP_Common,Enter"
 msgid "Enter"
-msgstr ""
+msgstr "입장"
 
 #. Key:	FPS120
 #. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
 #: /Game/NewProject/Lan/ST_Common.ST_Common
 msgctxt "OP_Common,FPS120"
 msgid "FIX (120 FPS)"
-msgstr ""
+msgstr "수정 (120 FPS)"
 
 #. Key:	FPS60
 #. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
 #: /Game/NewProject/Lan/ST_Common.ST_Common
 msgctxt "OP_Common,FPS60"
 msgid "FIX (60 FPS)"
-msgstr ""
+msgstr "수정 (60 FPS)"
 
 #. Key:	GraphicHigh
 #. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
 #: /Game/NewProject/Lan/ST_Common.ST_Common
 msgctxt "OP_Common,GraphicHigh"
 msgid "High"
-msgstr ""
+msgstr "높은"
 
 #. Key:	GraphicLow
 #. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
 #: /Game/NewProject/Lan/ST_Common.ST_Common
 msgctxt "OP_Common,GraphicLow"
 msgid "Low"
-msgstr ""
+msgstr "낮은"
 
 #. Key:	GraphicMedium
 #. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
 #: /Game/NewProject/Lan/ST_Common.ST_Common
 msgctxt "OP_Common,GraphicMedium"
 msgid "Medium"
-msgstr ""
+msgstr "중간"
 
 #. Key:	GraphicUltra
 #. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
 #: /Game/NewProject/Lan/ST_Common.ST_Common
 msgctxt "OP_Common,GraphicUltra"
 msgid "Ultra"
-msgstr ""
+msgstr "울트라"
 
 #. Key:	Inversion
 #. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
 #: /Game/NewProject/Lan/ST_Common.ST_Common
 msgctxt "OP_Common,Inversion"
 msgid "Inversion"
-msgstr ""
+msgstr "반전"
 
 #. Key:	OFF
 #. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
 #: /Game/NewProject/Lan/ST_Common.ST_Common
 msgctxt "OP_Common,OFF"
 msgid "OFF"
-msgstr ""
+msgstr "끄다"
 
 #. Key:	ON
 #. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
 #: /Game/NewProject/Lan/ST_Common.ST_Common
 msgctxt "OP_Common,ON"
 msgid "ON"
-msgstr ""
+msgstr "켜다"
 
 #. Key:	Play
 #. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
 #: /Game/NewProject/Lan/ST_Common.ST_Common
 msgctxt "OP_Common,Play"
 msgid "Play"
-msgstr ""
+msgstr "시작"
 
 #. Key:	Unlimited
 #. SourceLocation:	/Game/NewProject/Lan/ST_Common.ST_Common
 #: /Game/NewProject/Lan/ST_Common.ST_Common
 msgctxt "OP_Common,Unlimited"
 msgid "Unlimited"
-msgstr ""
+msgstr "제한 없는"
 
 #. Key:	GameHintAmmo
 #. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
 #: /Game/NewProject/Lan/ST_Individual.ST_Individual
 msgctxt "OP_Individual,GameHintAmmo"
-msgid "bullet"
-msgstr ""
+msgid "Ammo"
+msgstr "탄약"
 
 #. Key:	GameHintCancle
 #. SourceLocation:	/Game/NewProject/Lan/ST_Individual.ST_Individual
